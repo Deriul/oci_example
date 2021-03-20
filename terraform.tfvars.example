@@ -1,0 +1,6 @@
+tenancy-ocid     = "ocid1.tenancy.oc1..."
+user-ocid        = "ocid1.user.oc1..."
+fingerprint      = "c7...:6a"
+private-key-path = "key7.pem"
+region           = "ca-toronto-1"
+cf-token         = "..."
